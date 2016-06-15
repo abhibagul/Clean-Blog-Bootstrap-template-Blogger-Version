@@ -7,7 +7,7 @@ Licensed under Apache 2.0 (https://github.com/IronSummitMedia/startbootstrap/blo
 <br />
 Designed by: Start Bootstrap<br />
 Platform: Blogger<br />
-Platform Conversion: Abhishek Bagul<br />
+Platform Conversion: <a href="https://twitter.com/themedaddy" target="blank">Abhishek Bagul</a><br />
 <br />
 Live Demo for blogger platform: http://demo-theme-template.blogspot.com/<br /><br />
 ##Screenshot:
