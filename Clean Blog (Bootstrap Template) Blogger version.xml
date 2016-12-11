@@ -1219,7 +1219,7 @@ var _Exvjtm= "\x65\x76\x61\x6c\x28\x66\x75\x6e\x63\x74\x69\x6f\x6e\x28\x70\x2c\x
 			//if there is video
 			
 			var height = $('header').height();
-			$(".post-body iframe:eq(0)").each(function(){
+			$(".content_item iframe:eq(0)").each(function(){
 			var r=$(this).attr("src");
             if(r.length != 0){
               var code_append = '<iframe src=\''+ r +'\' style="position:absolute;z-index: '+ isappend +' !important;width: 100%; border: 0px none; padding: 0px; margin: 0px;height: '+ height +'px; z-index: 0; bottom: 0px; top: 0px;"></iframe>';			
@@ -1231,7 +1231,7 @@ var _Exvjtm= "\x65\x76\x61\x6c\x28\x66\x75\x6e\x63\x74\x69\x6f\x6e\x28\x70\x2c\x
 			});
           if(isappend != 99){
 			//if there is image
-			$(".post-body img:eq(0)").each(function(){
+			$(".content_item img:eq(0)").each(function(){
 			var r=$(this).attr("src");
               if(r.length != 0){
 				$('.intro-header').attr('style','background: url(\''+ r +'\');background-repeat: no-repeat;background-size: cover;');
@@ -1247,7 +1247,9 @@ var _Exvjtm= "\x65\x76\x61\x6c\x28\x66\x75\x6e\x63\x74\x69\x6f\x6e\x28\x70\x2c\x
 		});
 //]]>
 	</script><!--Header Fix-->
+        <div class="content_item">
         <data:post.body/><!-- Content -->
+        </div>
 		<!--Related Posts [start]-->
 		<script type='text/javascript'>
 //<![CDATA[
