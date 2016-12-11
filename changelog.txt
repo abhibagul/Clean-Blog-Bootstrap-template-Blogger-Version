@@ -1,0 +1,7 @@
+v1.0
+-Initial release.
+
+v1.1
+-layout page redefined
+-adding widgets to footer.
+-Bug fix of showing hero image.
