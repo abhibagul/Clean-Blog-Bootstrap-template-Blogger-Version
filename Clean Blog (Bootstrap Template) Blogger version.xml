@@ -480,7 +480,36 @@ color: rgb(64, 64, 64) !important;
       
       ]]></b:skin>
 
-
+  <b:template-skin>
+<![CDATA[
+#layout  nav:before{
+  content: "Start Bootstrap & ThemeDaddy Works!";
+  font-size:30px;
+  padding: 10px 0px;
+  display: table;
+  width: 100%;
+  text-align: center;
+  margin:20px 0px;
+  box-sizing: border-box;
+  background: rgba(0,0,0,0.5);
+  color:#fff;
+  font-family: 'Roboto', Arial;
+  font-weight: 400;
+}
+#layout ul, #layout .intro-header, #layout hr{
+  display: none;
+}
+#layout nav{
+  position: relative;
+  display: table;
+}
+#layout #header{
+  position: relative;
+  display: table;
+  width: 40%;
+}
+]]>
+</b:template-skin>
     <!-- Custom Fonts -->
    <link href='http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css' rel='stylesheet' type='text/css'/>
     <link href='http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'/>
@@ -1829,7 +1858,7 @@ if (thisUrl.indexOf("?q=") == -1) {
                             </a>
                         </li>
                     </ul>
-                    <p class='copyright text-muted'><b:section class='foot' id='footer-3' name='Footer' showaddelement='no'>
+                    <p class='copyright text-muted'><b:section class='foot' id='footer-3' name='Footer' showaddelement='yes'>
   <b:widget id='Attribution1' locked='true' title='' type='Attribution' visible='true'>
     <b:includable id='main'>
     <b:if cond='data:feedbackSurveyLink'>
