@@ -20,5 +20,6 @@ Live Demo for blogger platform: http://demo-theme-template.blogspot.com/<br /><b
 <img src="https://cloud.githubusercontent.com/assets/12196126/21081507/9025415e-bfee-11e6-91cd-6a452c8c5233.png">
 
 <hr/>
-However you can also design your own blogger template for free..
-Here are the tutorials : https://www.youtube.com/c/AbhishekBagul
+<br/>
+<h4>However you can also design your own blogger template for free..<h4><br/>
+<h2>Here are the tutorials : <a href="https://www.youtube.com/c/AbhishekBagul" target="_blank">https://www.youtube.com/c/AbhishekBagul </a><h2>
