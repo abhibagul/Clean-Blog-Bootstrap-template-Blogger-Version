@@ -8,17 +8,16 @@ Licensed under Apache 2.0 (https://github.com/IronSummitMedia/startbootstrap/blo
 Designed by: Start Bootstrap<br />
 Platform: Blogger<br />
 Platform Conversion: <a href="https://twitter.com/themedaddy" target="blank">Abhishek Bagul</a><br />
-
-<br/>
-
-<br />
 Live Demo for blogger platform: http://demo-theme-template.blogspot.com/<br /><br />
-##Screenshot:
-<br />
 
 <hr/>
 <h2>However you can also design your own blogger template for free..<h2><br/>
 <h2>Here are the tutorials : <a href="https://www.youtube.com/c/AbhishekBagul" target="_blank">https://www.youtube.com/c/AbhishekBagul </a><h2>
+<hr/>
+<br />
+
+##Screenshot:
+<br />
 <hr/>
 <h3>Theme Index: </h3>
 <img src="https://3.bp.blogspot.com/-08OmN9iik6Y/V1ULozyU6cI/AAAAAAAADe4/W2Bry_zWKfESJTlwsBg6oHcqVhGEVfNBACLcB/s1600/Screen%2BShot%2B2016-06-04%2Bat%2B21-compressed.jpg">
