@@ -12,4 +12,13 @@ Platform Conversion: <a href="https://twitter.com/themedaddy" target="blank">Abh
 Live Demo for blogger platform: http://demo-theme-template.blogspot.com/<br /><br />
 ##Screenshot:
 <br />
+<h3>Theme Index: </h3>
 <img src="https://3.bp.blogspot.com/-08OmN9iik6Y/V1ULozyU6cI/AAAAAAAADe4/W2Bry_zWKfESJTlwsBg6oHcqVhGEVfNBACLcB/s1600/Screen%2BShot%2B2016-06-04%2Bat%2B21-compressed.jpg">
+
+<br/>
+<h3>Layout Page: </h3>
+<img src="https://cloud.githubusercontent.com/assets/12196126/21081507/9025415e-bfee-11e6-91cd-6a452c8c5233.png">
+
+<hr/>
+However you can also design your own blogger template for free..
+Here are the tutorials : https://www.youtube.com/c/AbhishekBagul
