@@ -11,7 +11,7 @@ The bootstrap template created by https://twitter.com/SBootstrap has been conver
 
 <h2>What's new in this version?</h2>
 <ul>
-  <li>Navigation Menu meda simple to edit and change.</li>
+  <li>Navigation Menu made simple to edit and change.</li>
   <li>Custom header image support</li>
   <li>Layout improvements</li>
   <li>Minor bug fixes.</li>
