@@ -1251,7 +1251,7 @@ header.masthead{background-size: cover !important;background-position: center ce
         <div class='row'>
           <div class='col-lg-8 col-md-10 mx-auto'>
             
-            <p class='copyright text-muted'>&#169; Copyright <data:blog.title/> 2017. | Designed &amp; Creafted by <a href='http://blossomtheme.com/' rel='nofollow' title='Free &amp; Premium Blogger Templates'>Blossom Themes</a> &amp; <a href='https://startbootstrap.com' rel='nofollow' target='_blank' title='Start Bootstrap'>Start Bootstrap</a>.</p>
+		  <p class='copyright text-muted'>&#169; Copyright <a expr:href="data:blog.homepageUrl"><data:blog.title/></a> 2017. | Designed &amp; Creafted by <a href='http://www.blossomtheme.com/' rel='nofollow' title='Free &amp; Premium Blogger Templates'>Blossom Themes</a> &amp; <a href='https://startbootstrap.com' rel='nofollow' target='_blank' title='Start Bootstrap'>Start Bootstrap</a>.</p>
           </div>
         </div>
       </div>
