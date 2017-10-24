@@ -5,3 +5,9 @@ v1.1
 -layout page redefined
 -adding widgets to footer.
 -Bug fix of showing hero image.
+
+v2.2.1 [Stable Version]
+-Navigation menu improvements
+-Layout modifications.
+-Custom header image support.
+-Minor bug fixes.
