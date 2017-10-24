@@ -4,7 +4,7 @@ The bootstrap template created by https://twitter.com/SBootstrap has been conver
 <h2>Theme Details</h2>
 <p>Theme Name: Clean Blog Blogger Template</p>
 <p>Theme Designer & Modifier: <a href="www.blossomtheme.com" target="_blank" title="Free &amp; Premium High Quality Blogger Templates">Blossom Themes</a> &amp; Start Bootstrap</p>
-<p>Theme Version (Blogger Platform): v2.2.1</p>
+<p>Theme Version (Blogger Platform): v2.2.1 [Stable version]</p>
 <p>Theme Demo: <a href="http://cleanblog-blossomtheme.blogspot.com/" target="_blank">http://cleanblog-blossomtheme.blogspot.com/</a></p>
 <p>Theme Documentation: <a href="http://cleanblog-blossomtheme.blogspot.in/p/documentation.html" target="_blank">http://cleanblog-blossomtheme.blogspot.in/p/documentation.html</a></p>
 <br/>
