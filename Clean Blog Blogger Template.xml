@@ -115,6 +115,7 @@ header.masthead{margin-bottom:50px;background:no-repeat center center;background
  }
 @media only screen and (max-width:768px){
 .item nav .Header h1 a, .static_page nav .Header h1 a, .archive nav .Header h1 a , .error_page nav .Header h1 a {color: $(pc) !important}
+ .post-heading{padding-left: 20px !important;padding-right:20px !important;}
 }
 .floating-label-form-group{font-size:14px;position:relative;margin-bottom:0;padding-bottom:0.5em;border-bottom:1px solid #eeeeee;}
  .floating-label-form-group input, .floating-label-form-group textarea{font-size:1.5em;position:relative;z-index:1;padding:0;resize:none;border:none;border-radius:0;background:none;box-shadow:none !important;font-family:'Lora', 'Times New Roman', serif;}
