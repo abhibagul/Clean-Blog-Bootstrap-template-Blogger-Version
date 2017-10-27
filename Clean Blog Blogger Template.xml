@@ -57,6 +57,7 @@ a{color:$(pc);-webkit-transition:all 0.2s;-moz-transition:all 0.2s;transition:al
  a:focus, a:hover{color:$(sc);}
 a img:focus, a img:hover{cursor:zoom-in;}
 blockquote{font-style:italic;color:#777777;}
+article.pagebody a{margin: 0px !important;}/* FIX FOR IMAGE NOT CENTERING [Error caused due to blogger editor.] */
 .section-heading{font-size:36px;font-weight:700;margin-top:60px;}
 .caption{font-size:14px;font-style:italic;display:block;margin:0;padding:10px;text-align:center;border-bottom-right-radius:5px;border-bottom-left-radius:5px;}
 ::-moz-selection{color:white;background:$(sc);text-shadow:none;}
