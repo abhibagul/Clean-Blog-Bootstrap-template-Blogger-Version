@@ -1,4 +1,6 @@
 # Clean-Blog-Bootsrtap-template-Blogger-Version
+
+<h2>The Theme can only be downloaded from : http://secure.blossomtheme.com/product/clean-blog-blogger-template/</h2>
 The bootstrap template created by https://twitter.com/SBootstrap has been converted into the blogger version by <a href="http://www.blossomtheme.com" title="Free & Premium High Quality Blogger Templates">Blossom Themes</a>.<br />
 <br/>
 <h2>Theme Details</h2>
