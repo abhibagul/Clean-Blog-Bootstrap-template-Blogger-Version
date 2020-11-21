@@ -1,6 +1,6 @@
 # Clean-Blog-Bootsrtap-template-Blogger-Version
 
-
+  <span class='fltdon' style='float:left'>	Get us going by :</span> 	<a href="https://www.paypal.com/paypalme/blossomtheme" target="_blank"><img alt='Donate with PayPal button' border='0' name='submit' src='https://www.paypalobjects.com/en_GB/i/btn/btn_donateCC_LG.gif' title='PayPal - The safer, easier way to pay online!'/></a>
 
 <a href="http://store.blossomtheme.com/product/clean-blog-blogger-template/" alt="Clean Blog Template Download"><img src="https://1.bp.blogspot.com/-9WDQtmPpDCM/Wu3ff4y9lkI/AAAAAAAABXs/xV7Gozk2IDY6E3cFUlmxUE4s93IkZRnqQCLcBGAs/s1600/FREE%2BTEMPLATE.jpg" alt="Clean Blog Blogger Template"/></a>
 The bootstrap template created by https://twitter.com/SBootstrap has been converted into the blogger version by <a href="http://www.blossomtheme.com" title="Free & Premium High Quality Blogger Templates">Blossom Themes</a>.<br />
